@@ -1,3 +1,3 @@
-# Principios de Privacidad
+# Fundamentos de Privacidad
 
-En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explicar principios básicos de privacidad en machine learning y estadística.
+En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explicar fundamentos básicos de privacidad en estadística y machine learning.
