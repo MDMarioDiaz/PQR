@@ -2,42 +2,38 @@
 
 En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explicar fundamentos básicos de privacidad en estadística y aprandizaje de máquina.
 
-## Material Básico
+* <b>Gradiente Descendiente</b><br>
+  Descripción breve del contenido.<br>
+  Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.<br>
+  <a href="">[Colab]</a>
 
----
+* <b>Gradiente Descendiente Estocástico</b><br>
+  Descripción breve del contenido.<br>
+  Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.<br>
+  <a href="">[Colab]</a>
 
-**Gradiente Descendiente Estocástico**
+* <b>Modelos Lineales</b><br>
+  Descripción breve del contenido.<br>
+  Colaboradores: Jorge Aureo Armas Cuellar.<br>
+  <a href="">[Colab]</a>
 
-Descripción breve del contenido.
-* Gradiente Descendiente
-* Gradiente Descendiente Estocástico
 
-Colaboradores: 
 
----
+## Colaboradores
 
-**Métodos Básicos de Regresión**
+* Jorge Aureo Armas Cuellar<br>Licenciatura en Matemáticas Aplicadas, FC-UNAM
 
-Descripción breve del contenido.
-* Regresión Lineal
-* Redes Neuronales
+* Alejandro Antonio Estrada Franco<br>Maestría en Matemáticas, IIMAS-UNAM
 
-Colaboradores: 
+* Alejandra Guerrero Arelio<br>Licenciatura en Matemáticas, FC-UNAM
 
----
+* Wei Le Hu Tang<br>Licenciatura en Matemáticas Aplicadas, FC-UNAM
 
-**Privacidad Diferencial**
+* Diego Velasco Cortez<br>Licenciatura en Actuaría, FC-UNAM
 
-Descripción breve del contenido.
-* ...
+<br>
 
-Colaboradores: 
-
----
-
-## Información de los Colaboradores
-
-* Nombre
-* Nombre
-
-**¿Te interesa colaborar en este proyecto?** Si eres estudiante de alguna institución de educación superior en México y ..., por favor no dudes en contactarnos al correo <a href="mailto:mario.diaz@sigma.iimas.unam.mx">mario.diaz@sigma.iimas.unam.mx</a>
+<b>INFORMACIÓN DE CONTACTO</b><br>
+Mario Diaz, IIMAS-UNAM<br>
+<a href="mailto:mario.diaz@sigma.iimas.unam.mx">mario.diaz@sigma.iimas.unam.mx</a><br>
+<a href="https://www.mariodiaztorres.com/">https://www.mariodiaztorres.com/</a><br>
