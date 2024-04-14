@@ -3,37 +3,37 @@
 En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explicar fundamentos básicos de privacidad en estadística y aprandizaje de máquina.
 
 * <b>Gradiente Descendiente</b><br>
-  Descripción breve del contenido.<br>
-  Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.<br>
-  <a href="">[Colab]</a>
+  Método básico para minimizar funciones de manera iterativa utilizando el gradiente.<br>
+  <i>Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.</i><br>
+  [Resumen] <a href="">[Colab]</a> [PDF]
 
 * <b>Gradiente Descendiente Estocástico</b><br>
-  Descripción breve del contenido.<br>
-  Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.<br>
-  <a href="">[Colab]</a>
+  Adaptación del Gradiente Descendiente utilizada en aprendizaje de máquina para entrenar modelos.<br>
+  <i>Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.</i><br>
+  [Resumen] <a href="">[Colab]</a> [PDF]
 
 * <b>Modelos Lineales</b><br>
-  Descripción breve del contenido.<br>
-  Colaboradores: Jorge Aureo Armas Cuellar.<br>
-  <a href="">[Colab]</a>
+  Modelo de predicción sencillo que puede entrenarse de forma cerrada o iterativa.<br>
+  <i>Colaboradores: Jorge Aureo Armas Cuellar.</i><br>
+  [Resumen] <a href="">[Colab]</a> [PDF]
 
 
 
 ## Colaboradores
 
-* Jorge Aureo Armas Cuellar<br>Licenciatura en Matemáticas Aplicadas, FC-UNAM
+* <i>Jorge Aureo Armas Cuellar</i><br>Licenciatura en Matemáticas Aplicadas, FC-UNAM
 
-* Alejandro Antonio Estrada Franco<br>Maestría en Matemáticas, IIMAS-UNAM
+* <i>Alejandro Antonio Estrada Franco</i><br>Maestría en Matemáticas, IIMAS-UNAM
 
-* Alejandra Guerrero Arelio<br>Licenciatura en Matemáticas, FC-UNAM
+* <i>Alejandra Guerrero Arelio</i><br>Licenciatura en Matemáticas, FC-UNAM
 
-* Wei Le Hu Tang<br>Licenciatura en Matemáticas Aplicadas, FC-UNAM
+* <i>Wei Le Hu Tang</i><br>Licenciatura en Matemáticas Aplicadas, FC-UNAM
 
-* Diego Velasco Cortez<br>Licenciatura en Actuaría, FC-UNAM
+* <i>Diego Velasco Cortez</i><br>Licenciatura en Actuaría, FC-UNAM
 
 <br>
 
 <b>INFORMACIÓN DE CONTACTO</b><br>
-Mario Diaz, IIMAS-UNAM<br>
-<a href="mailto:mario.diaz@sigma.iimas.unam.mx">mario.diaz@sigma.iimas.unam.mx</a><br>
+<i>Mario Diaz, IIMAS-UNAM</i><br>
 <a href="https://www.mariodiaztorres.com/">https://www.mariodiaztorres.com/</a><br>
+<a href="mailto:mario.diaz@sigma.iimas.unam.mx">mario.diaz@sigma.iimas.unam.mx</a><br>
