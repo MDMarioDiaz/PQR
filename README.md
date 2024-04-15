@@ -23,36 +23,21 @@ En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explic
 
 ## Colaboradores
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="125" height="125" align="left"/><br>
-<i>Jorge Aureo Armas Cuellar</i><br>
-Licenciatura en Matemáticas Aplicadas<br>
-Facultad de Ciencias, UNAM<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="73" height="73" align="left"/><i>Jorge Aureo Armas Cuellar</i><br>Licenciatura en Matemáticas Aplicadas<br>Facultad de Ciencias, UNAM
 
-<img src="/IMG/AlejandroEstrada.jpg" width="125" height="125" align="left"/><br>
-<i>Alejandro Antonio Estrada Franco</i><br>
-Maestría en Matemáticas<br>
-IIMAS, UNAM<br><br>
+<img src="/IMG/AlejandroEstrada.jpg" width="73" height="73" align="left"/><i>Alejandro Antonio Estrada Franco</i><br>Maestría en Matemáticas<br>IIMAS, UNAM
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="125" height="125" align="left"/><br>
-<i>Alejandra Guerrero Arelio</i><br>
-Licenciatura en Matemáticas<br>
-Facultad de Ciencias, UNAM<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="73" height="73" align="left"/><i>Alejandra Guerrero Arelio</i><br>Licenciatura en Matemáticas<br>Facultad de Ciencias, UNAM
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="125" height="125" align="left"/><br>
-<i>Wei Le Hu Tang</i><br>
-Licenciatura en Matemáticas Aplicadas<br>
-Facultad de Ciencias, UNAM<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="73" height="73" align="left"/><i>Wei Le Hu Tang</i><br>Licenciatura en Matemáticas Aplicadas<br>Facultad de Ciencias, UNAM
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="125" height="125" align="left"/><br>
-<i>Diego Velasco Cortez</i><br>
-Licenciatura en Actuaría<br>
-Facultad de Ciencias, UNAM<br><br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="73" height="73" align="left"/><i>Diego Velasco Cortez</i><br>Licenciatura en Actuaría<br>Facultad de Ciencias, UNAM
 
 
 
 <b>INFORMACIÓN DE CONTACTO</b><br>
 
-<img src="/IMG/MarioDiaz.jpg" width="125" height="125" align="left"/><br>
+<img src="/IMG/MarioDiaz.jpg" width="73" height="73" align="left"/>
 <i>Mario Diaz, IIMAS-UNAM</i><br>
 <a href="https://www.mariodiaztorres.com/">https://www.mariodiaztorres.com/</a><br>
-<a href="mailto:mario.diaz@sigma.iimas.unam.mx">mario.diaz@sigma.iimas.unam.mx</a><br>
+<a href="mailto:mario.diaz@sigma.iimas.unam.mx">mario.diaz@sigma.iimas.unam.mx</a>
