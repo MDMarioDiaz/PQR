@@ -23,7 +23,7 @@ En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explic
 
 ## Colaboradores
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="73" height="73" align="left"/><i>Jorge Aureo Armas Cuellar</i><br>Licenciatura en Matemáticas Aplicadas<br>Facultad de Ciencias, UNAM
+<img src="/IMG/JorgeArmas.jpg" width="73" height="73" align="left"/><i>Jorge Aureo Armas Cuellar</i><br>Licenciatura en Matemáticas Aplicadas<br>Facultad de Ciencias, UNAM
 
 <img src="/IMG/AlejandroEstrada.jpg" width="73" height="73" align="left"/><i>Alejandro Antonio Estrada Franco</i><br>Maestría en Matemáticas<br>IIMAS, UNAM
 
