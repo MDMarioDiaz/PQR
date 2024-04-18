@@ -31,7 +31,7 @@ En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explic
 
 <img src="/IMG/WeiLeHu.jpg" width="73" height="73" align="left"/><i>Wei Le Hu Tang</i><br>Licenciatura en Matemáticas Aplicadas<br>Facultad de Ciencias, UNAM
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg" width="73" height="73" align="left"/><i>Diego Velasco Cortez</i><br>Licenciatura en Actuaría<br>Facultad de Ciencias, UNAM
+<img src="/IMG/DiegoVelasco.jpg" width="73" height="73" align="left"/><i>Diego Velasco Cortez</i><br>Licenciatura en Actuaría<br>Facultad de Ciencias, UNAM
 
 
 
