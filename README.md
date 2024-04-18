@@ -5,17 +5,17 @@ En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explic
 * <b>Gradiente Descendiente</b><br>
   Método básico para minimizar funciones de manera iterativa utilizando el gradiente.<br>
   <i>Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.</i><br>
-  [Resumen] <a href="">[Colab]</a> [PDF]
+  [resumen] <a href="">[ipynb]</a> [pdf]
 
 * <b>Gradiente Descendiente Estocástico</b><br>
   Adaptación del Gradiente Descendiente utilizada en aprendizaje de máquina para entrenar modelos.<br>
   <i>Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.</i><br>
-  [Resumen] <a href="">[Colab]</a> [PDF]
+  [resumen] <a href="">[ipynb]</a> [pdf]
 
 * <b>Modelos Lineales</b><br>
   Modelo de predicción sencillo que puede entrenarse de forma cerrada o iterativa.<br>
   <i>Colaboradores: Jorge Aureo Armas Cuellar.</i><br>
-  [Resumen] <a href="">[Colab]</a> [PDF]
+  [resumen] <a href="">[ipynb]</a> [pdf]
 
 
 
