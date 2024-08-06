@@ -2,12 +2,12 @@
 
 En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explicar fundamentos básicos de privacidad en estadística y aprandizaje de máquina.
 
-* <b>Gradiente Descendiente</b><br>
+* <b>Descenso del Gradiente</b><br>
   Método básico para minimizar funciones de manera iterativa utilizando el gradiente.<br>
   <i>Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.</i><br>
-  [resumen] <a href="">[ipynb]</a> [pdf]
+  [resumen] <a href="/GD/GD.ipynb">[ipynb]</a> [pdf]
 
-* <b>Gradiente Descendiente Estocástico</b><br>
+* <b>Descenso del Gradiente Estocástico</b><br>
   Adaptación del Gradiente Descendiente utilizada en aprendizaje de máquina para entrenar modelos.<br>
   <i>Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.</i><br>
   [resumen] <a href="">[ipynb]</a> [pdf]
