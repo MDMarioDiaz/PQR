@@ -1,6 +1,6 @@
 # Fundamentos de Privacidad
 
-En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explicar fundamentos básicos de privacidad en estadística y aprandizaje de máquina.
+En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explicar fundamentos básicos de aprandizaje de máquina y privacidad.
 
 * <b>Descenso del Gradiente</b><br>
   Método básico para minimizar funciones de manera iterativa utilizando el gradiente.<br>
