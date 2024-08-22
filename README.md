@@ -1,21 +1,21 @@
 # Fundamentos de Privacidad
 
-En este repositorio compilamos una serie de Jupyter Notebooks dedicados a explicar fundamentos básicos de aprandizaje de máquina y privacidad.
+En este repositorio compilamos una serie de notas dedicadas a explicar algunos fundamentos básicos del aprandizaje de máquina y la privacidad. Estas notas están dirigidas a estudiantes universitarios con conocimientos de cálculo y álgebra lineal.
 
 * <b>Descenso del Gradiente</b><br>
   Método básico para minimizar funciones de manera iterativa utilizando el gradiente.<br>
   <i>Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.</i><br>
-  [resumen] <a href="/GD/GD.ipynb">[ipynb]</a> [pdf]
+  [resumen] <a href="/GD/GD.ipynb">[ipynb]</a>
 
 * <b>Descenso del Gradiente Estocástico</b><br>
-  Adaptación del Gradiente Descendiente utilizada en aprendizaje de máquina para entrenar modelos.<br>
+  Adaptación del Descenso del Gradiente utilizada en aprendizaje de máquina para entrenar modelos.<br>
   <i>Colaboradores: Wei Le Hu Tang, Diego Velasco Cortez.</i><br>
-  [resumen] <a href="">[ipynb]</a> [pdf]
+  [resumen] [ipynb]
 
-* <b>Modelos Lineales</b><br>
-  Modelo de predicción sencillo que puede entrenarse de forma cerrada o iterativa.<br>
+* <b>Modelo Lineal</b><br>
+  Modelo de predicción sencillo que puede entrenarse de manera exacta o iterativa.<br>
   <i>Colaboradores: Jorge Aureo Armas Cuellar.</i><br>
-  [resumen] <a href="">[ipynb]</a> [pdf]
+  [resumen] [ipynb]
 
 
 
